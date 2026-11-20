@@ -69,7 +69,7 @@ class Program
             else if (choice == "4")
             {
                 running = false;
-                Console.WriteLine("Thank you.");
+                Console.WriteLine("Thank yo.");
             }
             else
             {
